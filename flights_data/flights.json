@@ -1,4 +1,4 @@
-[
+{
    {
    "localTime": "2022-02-14T13:50:56.974",
    "city" : "Dubai",
@@ -53,4 +53,4 @@
    "fs": "IX789",
    "photo_large": "https://api.bac.bh/api/fids/IX.png"
    },
- ]
+}
