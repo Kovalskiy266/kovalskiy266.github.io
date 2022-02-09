@@ -1,84 +1,84 @@
 [
    {
-   "localTime": "2022-02-14 09:40:00",
+   "localTime": "2022-02-14T09:40:56.974",
    "city" : "Dubai",
    "fs": "FZ023",
    "photo_large": "https://api.bac.bh/api/fids/FZ.png"
    },
    {
-   "localTime": "2022-02-14 10:30:00",
+   "localTime": "2022-02-14T10:50:56.974",
    "city" : "Jeddah",
    "fs": "GF2182",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-14 11:10:00",
+   "localTime": "2022-02-14T11:10:56.974",
    "city" : "Abu Dhabi",
    "fs": "GF541",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-14 18:00:00",
+   "localTime": "2022-02-14T18:00:56.974",
    "city" : "Berezne",
    "fs": "IX789",
    "photo_large": "https://api.bac.bh/api/fids/IX.png"
    },
    {
-   "localTime": "2022-02-14 11:50:00",
+   "localTime": "2022-02-14T11:50:00.974",
    "city" : "Dubai",
    "fs": "GF501",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-14 12:40:00",
+   "localTime": "2022-02-14T12:40:00.974",
    "city" : "Sharjah",
    "fs": "GF9101",
    "photo_large": "https://api.bac.bh/api/fids/G9.png"
    },
    {
-   "localTime": "2022-02-14 14:30:00",
+   "localTime": "2022-02-14T14:30:00.974",
    "city" : "Dubai",
    "fs": "GF501",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
     {
-   "localTime": "2022-02-14 16:40:00",
+   "localTime": "2022-02-14T16:40:00.974",
    "city" : "Kyiv",
    "fs": "GF013",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-14 20:00:00",
+   "localTime": "2022-02-14T20:00:00.974",
    "city" : "Kannur",
    "fs": "IX789",
    "photo_large": "https://api.bac.bh/api/fids/IX.png"
    },
    {
-   "localTime": "2022-02-14 23:15:00",
+   "localTime": "2022-02-14T23:15:00.974",
    "city" : "Tyshitsia",
    "fs": "IX799",
    "photo_large": "https://api.bac.bh/api/fids/IX.png"
    },
    {
-   "localTime": "2022-02-08 23:15:00",
+   "localTime": "2022-02-08T23:15:00.974",
    "city" : "Sabina Goksen",
    "fs": "TK7675",
    "photo_large": "https://api.bac.bh/api/fids/TK.png"
    },
    {
-   "localTime": "2022-02-07 23:15:00",
+   "localTime": "2022-02-07T23:15:00.974",
    "city" : "Siakot",
    "fs": "GF772",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-07 23:15:00",
+   "localTime": "2022-02-07T23:15:00.974",
    "city" : "Multan",
    "fs": "GF777",
    "photo_large": "https://api.bac.bh/api/fids/GF.png"
    },
    {
-   "localTime": "2022-02-09 11:50:00",
+   "localTime": "2022-02-09T11:50:00.974",
    "city" : "Dubai",
    "fs": "GF511",
    "photo_large": "https://api.bac.bh/api/fids/FZ.png"
