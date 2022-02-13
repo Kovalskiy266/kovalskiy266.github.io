@@ -159,7 +159,7 @@
       "flight_number": "GF0012",
       "origin": "Kyiv",
       "time": "17:00",
-      "airline_logo":https://api.bac.bh/api/fids/GF.png",
+      "airline_logo": "https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air", 
       "status":"early",
       "flight-status": "departures",
