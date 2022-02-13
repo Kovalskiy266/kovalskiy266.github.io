@@ -1,4 +1,5 @@
-{"planes":[
+{
+    "planes":[
     {
         "flight_number": "FZ023",
         "origin": "Vilnius", 
@@ -26,7 +27,7 @@
     {
       "flight_number": "GF070",
       "origin": "Dubai",
-      "time":"09:20","
+      "time":"09:20",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
